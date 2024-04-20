@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("onlineschoolms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a42c0f94f1c1726aa6a38eb7e24bce46f981f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("onlineschoolms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("onlineschoolms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
